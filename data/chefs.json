@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "chef_picture": "https://static.wikia.nocookie.net/bengali/images/9/98/Afran-Nisho-1.jpg/revision/latest?cb=20190517110842",
+      "chef_picture": "https://live.staticflickr.com/65535/51014287955_27fc776bf0_b.jpg",
       "chef_name": "Rafsan",
       "years_of_experience": 10,
       "number_of_recipes": 50,
@@ -201,7 +201,7 @@
     },
     {
       "id": 4,
-      "chef_picture": "https://static.wikia.nocookie.net/coco-movie/images/6/66/Miguel_profile.png/revision/latest?cb=20181104202159",
+      "chef_picture": "https://akns-images.eonline.com/eol_images/Entire_Site/2017215/rs_600x600-170315060724-600.coco-disney-pixar.31517.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
       "chef_name": "Miguel",
       "years_of_experience": 5,
       "number_of_recipes": 40,
