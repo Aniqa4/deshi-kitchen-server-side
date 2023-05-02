@@ -1,0 +1,45 @@
+[
+    {
+      "chef_picture": "https://example.com/chef1.jpg",
+      "chef_name": "Rahim Ahmed",
+      "years_of_experience": 10,
+      "number_of_recipes": 50,
+      "likes": 1000
+    },
+    {
+      "chef_picture": "https://example.com/chef2.jpg",
+      "chef_name": "Amina Rahman",
+      "years_of_experience": 8,
+      "number_of_recipes": 70,
+      "likes": 1500
+    },
+    {
+      "chef_picture": "https://example.com/chef3.jpg",
+      "chef_name": "Kamal Hussain",
+      "years_of_experience": 15,
+      "number_of_recipes": 100,
+      "likes": 2000
+    },
+    {
+      "chef_picture": "https://example.com/chef4.jpg",
+      "chef_name": "Nazia Begum",
+      "years_of_experience": 5,
+      "number_of_recipes": 40,
+      "likes": 800
+    },
+    {
+      "chef_picture": "https://example.com/chef5.jpg",
+      "chef_name": "Sohel Ahmed",
+      "years_of_experience": 12,
+      "number_of_recipes": 90,
+      "likes": 1800
+    },
+    {
+      "chef_picture": "https://example.com/chef6.jpg",
+      "chef_name": "Farhana Rahman",
+      "years_of_experience": 7,
+      "number_of_recipes": 60,
+      "likes": 1200
+    }
+  ]
+  
