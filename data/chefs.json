@@ -1,12 +1,12 @@
 [
     {
       "id": 1,
-      "chef_picture": "https://i1.sndcdn.com/avatars-H4JpjNnoqqpAMbvU-yFGcpQ-t500x500.jpg",
-      "chef_name": "Hiccup",
+      "chef_picture": "https://static.wikia.nocookie.net/bengali/images/9/98/Afran-Nisho-1.jpg/revision/latest?cb=20190517110842",
+      "chef_name": "Rafsan",
       "years_of_experience": 10,
       "number_of_recipes": 50,
       "likes": 1000,
-      "description": "Hiccup is a renowned chef known for his exquisite culinary skills and passion for creating delicious dishes.",
+      "description": "Rafsan is a renowned chef known for his exquisite culinary skills and passion for creating delicious dishes.",
       "recipes":[
         {
           "recipe_name": "Shorshe Ilish (Hilsa Fish in Mustard Sauce)",
@@ -66,12 +66,12 @@
     },
     {
       "id": 2,
-      "chef_picture": "https://pub-static.fotor.com/assets/projects/pages/e174890b7d614925a4f275b67873ffb7/300w/fotor-01b0203e5e414695890876d329e551d3.jpg",
-      "chef_name": "Elsa",
+      "chef_picture": "https://yt3.ggpht.com/paR_6PMADcmZ2lHiWjglouZp3DKeV8kOkQ3x_TvHXBvi6pvS9nrbK5-nZhQZ5n70FEkE9GZmCUM=s800-c-k-c0x00ffffff-no-rj",
+      "chef_name": "Choto Bhai",
       "years_of_experience": 8,
       "number_of_recipes": 70,
       "likes": 1500,
-      "description": "Elsa is a talented chef with a flair for blending traditional flavors with modern cooking techniques.",
+      "description": "Choto Bhai is a talented chef with a flair for blending traditional flavors with modern cooking techniques.",
       "recipes":[
         {
           "recipe_name": "Shorshe Pabda (Pabda Fish in Mustard Sauce)",
@@ -132,12 +132,12 @@
     },
     {
       "id": 3,
-      "chef_picture": "https://lumiere-a.akamaihd.net/v1/images/ct_frozen_anna_18466_6775584b.jpeg?region=0,0,600,600&width=480",
-      "chef_name": "Anna",
+      "chef_picture": "https://yt3.googleusercontent.com/ytc/AGIKgqPbzaEUy-Gdjx8vZjaffeGSnaPeUa9pnj0gXJlR=s900-c-k-c0x00ffffff-no-rj",
+      "chef_name": "Keka ferdousi",
       "years_of_experience": 15,
       "number_of_recipes": 100,
       "likes": 2000,
-      "description": "Anna is an experienced chef who has mastered the art of creating culinary masterpieces using locally sourced ingredients.",
+      "description": "Keka Ferdousi is an experienced chef who has mastered the art of creating culinary masterpieces using locally sourced ingredients.",
       "recipes":[
         {
           "recipe_name": "Khashir Korma (Spicy Goat Curry)",
