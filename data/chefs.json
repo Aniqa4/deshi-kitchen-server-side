@@ -1,45 +1,363 @@
 [
     {
-      "chef_picture": "https://example.com/chef1.jpg",
-      "chef_name": "Rahim Ahmed",
+      "id": 1,
+      "chef_picture": "https://i1.sndcdn.com/avatars-H4JpjNnoqqpAMbvU-yFGcpQ-t500x500.jpg",
+      "chef_name": "Hiccup",
       "years_of_experience": 10,
       "number_of_recipes": 50,
-      "likes": 1000
+      "likes": 1000,
+      "description": "Hiccup is a renowned chef known for his exquisite culinary skills and passion for creating delicious dishes.",
+      "recipes":[
+        {
+          "recipe_name": "Shorshe Ilish (Hilsa Fish in Mustard Sauce)",
+          "ingredients": [
+            "500g Hilsa fish",
+            "4 tablespoons mustard paste",
+            "2 green chilies, slit",
+            "1 teaspoon turmeric powder",
+            "1 teaspoon red chili powder",
+            "4 tablespoons mustard oil",
+            "Salt to taste",
+            "Coriander leaves for garnish"
+          ],
+          "cooking_method": "1. Marinate the Hilsa fish with turmeric powder and salt. Keep it aside for 15 minutes.\n2. Heat mustard oil in a pan and fry the marinated fish until golden brown. Remove and keep aside.\n3. In the same pan, add mustard paste, turmeric powder, red chili powder, and salt. Saute for a few minutes.\n4. Add slit green chilies and a little water. Cook until the sauce thickens.\n5. Add the fried fish to the sauce and cook for a couple of minutes.\n6. Garnish with coriander leaves and serve hot with steamed rice.",
+          "rating": 4.7
+        },
+        {
+          "recipe_name": "Rui Machher Jhol (Rohu Fish Curry)",
+          "ingredients": [
+            "500g Rohu fish",
+            "2 onions, sliced",
+            "2 tomatoes, chopped",
+            "2 green chilies, slit",
+            "1 tablespoon ginger paste",
+            "1 tablespoon garlic paste",
+            "1 teaspoon turmeric powder",
+            "1 teaspoon cumin powder",
+            "1 teaspoon coriander powder",
+            "2 tablespoons mustard oil",
+            "Salt to taste",
+            "Coriander leaves for garnish"
+          ],
+          "cooking_method": "1. Heat mustard oil in a pan and fry the fish pieces until lightly browned. Remove and keep aside.\n2. In the same pan, add sliced onions and sauté until golden brown.\n3. Add ginger paste, garlic paste, turmeric powder, cumin powder, coriander powder, and salt. Cook for a few minutes.\n4. Add chopped tomatoes and cook until they turn mushy.\n5. Add slit green chilies and a little water. Simmer for a few minutes.\n6. Gently add the fried fish pieces to the gravy and cook until the fish is fully cooked.\n7. Garnish with coriander leaves and serve with steamed rice.",
+          "rating": 4.6
+        },
+        {
+          "recipe_name": "Chicken Biryani",
+          "ingredients": [
+            "500g chicken, cut into pieces",
+            "2 cups basmati rice",
+            "2 onions, thinly sliced",
+            "2 tomatoes, chopped",
+            "2 tablespoons ginger-garlic paste",
+            "1 cup plain yogurt",
+            "1 tablespoon biryani masala",
+            "1 teaspoon turmeric powder",
+            "1 teaspoon red chili powder",
+            "A pinch of saffron strands",
+            "4 tablespoons ghee",
+            "Salt to taste",
+            "Mint leaves and fried onions for garnish"
+          ],
+          "cooking_method": "1. Wash and soak the rice for 30 minutes. Drain and keep aside.\n2. Heat ghee in a large pan and fry the thinly sliced onions until golden brown. Remove and keep aside.\n3. In the same pan, add ginger-garlic paste and sauté until fragrant.\n4. Add chicken pieces, turmeric powder, red chili powder, and salt. Cook until the chicken is browned.\n5. Add chopped tomatoes, biryani masala, and yogurt. Mix well and cook until the tomatoes are soft.\n6. In a separate pot, bring water to a boil and cook the soaked rice until 70% cooked. Drain the rice.\n7. Layer the partially cooked rice over the chicken mixture. Sprinkle saffron strands and fried onions on top.\n8. Cover the pot tightly and cook on low heat for about 20 minutes until the rice is fully cooked and flavors are infused.\n9. Garnish with mint leaves and serve hot with raita or salad.",
+          "rating": 4.9
+        }
+      ]
     },
     {
-      "chef_picture": "https://example.com/chef2.jpg",
-      "chef_name": "Amina Rahman",
+      "id": 2,
+      "chef_picture": "https://pub-static.fotor.com/assets/projects/pages/e174890b7d614925a4f275b67873ffb7/300w/fotor-01b0203e5e414695890876d329e551d3.jpg",
+      "chef_name": "Elsa",
       "years_of_experience": 8,
       "number_of_recipes": 70,
-      "likes": 1500
+      "likes": 1500,
+      "description": "Elsa is a talented chef with a flair for blending traditional flavors with modern cooking techniques.",
+      "recipes":[
+        {
+          "recipe_name": "Shorshe Pabda (Pabda Fish in Mustard Sauce)",
+          "ingredients": [
+            "500g Pabda fish",
+            "4 tablespoons mustard paste",
+            "2 green chilies, slit",
+            "1 teaspoon turmeric powder",
+            "1 teaspoon red chili powder",
+            "4 tablespoons mustard oil",
+            "Salt to taste",
+            "Coriander leaves for garnish"
+          ],
+          "cooking_method": "1. Marinate the Pabda fish with turmeric powder and salt. Keep it aside for 15 minutes.\n2. Heat mustard oil in a pan and fry the marinated fish until golden brown. Remove and keep aside.\n3. In the same pan, add mustard paste, turmeric powder, red chili powder, and salt. Saute for a few minutes.\n4. Add slit green chilies and a little water. Cook until the sauce thickens.\n5. Add the fried fish to the sauce and cook for a couple of minutes.\n6. Garnish with coriander leaves and serve hot with steamed rice.",
+          "rating": 4.7
+        },
+        {
+          "recipe_name": "Kacchi Biryani (Mutton Biryani)",
+          "ingredients": [
+            "500g mutton, cut into pieces",
+            "2 cups basmati rice",
+            "2 onions, thinly sliced",
+            "2 tomatoes, chopped",
+            "2 tablespoons ginger-garlic paste",
+            "1 cup plain yogurt",
+            "1 tablespoon biryani masala",
+            "1 teaspoon turmeric powder",
+            "1 teaspoon red chili powder",
+            "A pinch of saffron strands",
+            "4 tablespoons ghee",
+            "Salt to taste",
+            "Mint leaves and fried onions for garnish"
+          ],
+          "cooking_method": "1. Wash and soak the rice for 30 minutes. Drain and keep aside.\n2. Heat ghee in a large pan and fry the thinly sliced onions until golden brown. Remove and keep aside.\n3. In the same pan, add ginger-garlic paste and sauté until fragrant.\n4. Add mutton pieces, turmeric powder, red chili powder, and salt. Cook until the mutton is browned.\n5. Add chopped tomatoes, biryani masala, and yogurt. Mix well and cook until the tomatoes are soft.\n6. In a separate pot, bring water to a boil and cook the soaked rice until 70% cooked. Drain the rice.\n7. Layer the partially cooked rice over the mutton mixture. Sprinkle saffron strands and fried onions on top.\n8. Cover the pot tightly and cook on low heat for about 20 minutes until the rice is fully cooked and flavors are infused.\n9. Garnish with mint leaves and serve hot with raita or salad.",
+          "rating": 4.8
+        },
+        {
+          "recipe_name": "Chingri Macher Malaikari (Prawn Curry in Coconut Milk)",
+          "ingredients": [
+            "500g prawns, deveined and cleaned",
+            "1 cup coconut milk",
+            "2 onions, finely chopped",
+            "2 tomatoes, chopped",
+            "2 green chilies, slit",
+            "1 tablespoon ginger paste",
+            "1 tablespoon garlic paste",
+            "1 teaspoon turmeric powder",
+            "1 teaspoon red chili powder",
+            "1 teaspoon cumin powder",
+            "2 tablespoons mustard oil",
+            "Salt to taste",
+            "Coriander leaves for garnish"
+          ],
+          "cooking_method": "1. Heat mustard oil in a pan and fry the prawns until pink. Remove and keep aside.\n2. In the same pan, add chopped onions and sauté until golden brown.\n3. Add ginger paste, garlic paste, turmeric powder, red chili powder, cumin powder, and salt. Cook for a few minutes.\n4. Add chopped tomatoes and cook until they turn mushy.\n5. Add slit green chilies and a little water. Simmer for a few minutes.\n6. Pour in the coconut milk and bring it to a gentle boil.\n7. Add the fried prawns to the curry and cook for a couple of minutes.\n8. Garnish with coriander leaves and serve hot with steamed rice.",
+          "rating": 4.6
+        }
+      ]
     },
     {
-      "chef_picture": "https://example.com/chef3.jpg",
-      "chef_name": "Kamal Hussain",
+      "id": 3,
+      "chef_picture": "https://lumiere-a.akamaihd.net/v1/images/ct_frozen_anna_18466_6775584b.jpeg?region=0,0,600,600&width=480",
+      "chef_name": "Anna",
       "years_of_experience": 15,
       "number_of_recipes": 100,
-      "likes": 2000
+      "likes": 2000,
+      "description": "Anna is an experienced chef who has mastered the art of creating culinary masterpieces using locally sourced ingredients.",
+      "recipes":[
+        {
+          "recipe_name": "Khashir Korma (Spicy Goat Curry)",
+          "ingredients": [
+            "500g goat meat, cut into pieces",
+            "2 onions, thinly sliced",
+            "2 tomatoes, chopped",
+            "2 tablespoons ginger-garlic paste",
+            "1 cup plain yogurt",
+            "1 teaspoon turmeric powder",
+            "1 teaspoon red chili powder",
+            "1 teaspoon cumin powder",
+            "1 teaspoon coriander powder",
+            "4 tablespoons ghee",
+            "Salt to taste",
+            "Coriander leaves for garnish"
+          ],
+          "cooking_method": "1. Heat ghee in a pressure cooker and fry the thinly sliced onions until golden brown. Remove and keep aside.\n2. In the same cooker, add ginger-garlic paste and sauté until fragrant.\n3. Add goat meat, turmeric powder, red chili powder, cumin powder, coriander powder, and salt. Cook until the meat is browned.\n4. Add chopped tomatoes and cook until they turn mushy.\n5. Add plain yogurt and mix well. Cook for a few minutes.\n6. Add enough water to cover the meat. Close the pressure cooker and cook for about 25-30 minutes until the meat is tender.\n7. Garnish with coriander leaves and serve hot with naan or rice.",
+          "rating": 4.7
+        },
+        {
+          "recipe_name": "Bhuna Khichuri (Spicy Lentil and Rice Pilaf)",
+          "ingredients": [
+            "1 cup basmati rice",
+            "1/2 cup yellow lentils",
+            "2 onions, finely chopped",
+            "2 tomatoes, chopped",
+            "2 green chilies, slit",
+            "1 tablespoon ginger paste",
+            "1 tablespoon garlic paste",
+            "1 teaspoon turmeric powder",
+            "1 teaspoon cumin powder",
+            "1 teaspoon coriander powder",
+            "1/2 teaspoon red chili powder",
+            "4 tablespoons ghee",
+            "Salt to taste",
+            "Coriander leaves for garnish"
+          ],
+          "cooking_method": "1. Wash and soak the rice and lentils separately for 30 minutes. Drain and keep aside.\n2. Heat ghee in a pan and fry the chopped onions until golden brown. Remove half of the fried onions for garnishing.\n3. In the same pan, add ginger paste, garlic paste, turmeric powder, cumin powder, coriander powder, and red chili powder. Cook for a few minutes.\n4. Add chopped tomatoes and cook until they turn mushy.\n5. Add the soaked lentils and mix well. Cook for a couple of minutes.\n6. Add the soaked rice, slit green chilies, and salt. Mix everything together.\n7. Pour in enough water to cover the rice-lentil mixture. Bring it to a boil.\n8. Reduce the heat, cover the pan, and let it cook until the rice and lentils are fully cooked.\n9. Garnish with fried onions and coriander leaves. Serve hot with raita or pickle.",
+          "rating": 4.5
+        },
+        {
+          "recipe_name": "Beef Bhuna",
+          "ingredients": [
+            "500g beef, cut into pieces",
+            "2 onions, finely chopped",
+            "2 tomatoes, chopped",
+            "2 tablespoons ginger-garlic paste",
+            "1 teaspoon turmeric powder",
+            "1 teaspoon cumin powder",
+            "1 teaspoon coriander powder",
+            "1 teaspoon red chili powder",
+            "4 tablespoons vegetable oil",
+            "Salt to taste",
+            "Coriander leaves for garnish"
+          ],
+          "cooking_method": "1. Heat oil in a pan and add chopped onions. Sauté until golden brown.\n2. Add ginger-garlic paste and sauté until fragrant.\n3. Add turmeric powder, cumin powder, coriander powder, red chili powder, and salt. Mix well.\n4. Add chopped tomatoes and cook until they turn mushy.\n5. Add beef pieces and cook on medium heat until the meat is tender and the flavors are well incorporated.\n6. Garnish with coriander leaves and serve hot with rice or roti.",
+          "rating": 4.6
+        }
+      ]
     },
     {
-      "chef_picture": "https://example.com/chef4.jpg",
-      "chef_name": "Nazia Begum",
+      "id": 4,
+      "chef_picture": "https://static.wikia.nocookie.net/coco-movie/images/6/66/Miguel_profile.png/revision/latest?cb=20181104202159",
+      "chef_name": "Miguel",
       "years_of_experience": 5,
       "number_of_recipes": 40,
-      "likes": 800
+      "likes": 800,
+      "description": "Miguel is a rising star in the culinary world, known for her innovative recipes and unique flavor combinations.",
+      "recipes":[
+        {
+          "recipe_name": "Panta Bhat (Fermented Rice)",
+          "ingredients": [
+            "2 cups cooked rice",
+            "1 cup water",
+            "1 tablespoon yogurt",
+            "1 teaspoon salt",
+            "1 green chili, chopped",
+            "1 onion, finely chopped",
+            "2 tablespoons mustard oil",
+            "Coriander leaves for garnish"
+          ],
+          "cooking_method": "1. Take the cooked rice in a bowl and add water to it. Let it sit overnight at room temperature.\n2. In the morning, add yogurt, salt, chopped green chili, and finely chopped onion to the fermented rice.\n3. Mix everything well until the flavors are combined.\n4. Drizzle mustard oil over the Panta Bhat and garnish with coriander leaves.\n5. Serve chilled and enjoy it as a refreshing breakfast or a side dish with traditional Bangladeshi meals.",
+          "rating": 4.3
+        },
+        {
+          "recipe_name": "Mishti Doi (Sweet Yogurt)",
+          "ingredients": [
+            "1 liter milk",
+            "1/2 cup sugar",
+            "1/2 teaspoon cardamom powder",
+            "2 tablespoons yogurt culture",
+            "A pinch of saffron strands",
+            "Chopped nuts for garnish"
+          ],
+          "cooking_method": "1. Heat the milk in a heavy-bottomed pan and bring it to a boil.\n2. Reduce the heat and simmer the milk, stirring occasionally, until it reduces to half its original volume.\n3. Add sugar, cardamom powder, and saffron strands to the reduced milk. Stir well until the sugar dissolves.\n4. Remove the pan from the heat and let it cool to lukewarm temperature.\n5. Add the yogurt culture to the lukewarm milk and mix well.\n6. Pour the mixture into earthen pots or any other container of your choice.\n7. Cover the pots with lids or wrap them with a clean cloth.\n8. Place the pots in a warm place for 6-8 hours or overnight to allow the yogurt to set.\n9. Once set, refrigerate the Mishti Doi for a few hours to chill.\n10. Serve cold, garnished with chopped nuts, and enjoy the creamy and sweet yogurt as a delightful dessert.",
+          "rating": 4.8
+        },
+        {
+          "recipe_name": "Roshogolla (Sweet Cheese Balls in Sugar Syrup)",
+          "ingredients": [
+            "1 liter milk",
+            "1 lemon, juiced",
+            "2 cups sugar",
+            "4 cups water",
+            "1/2 teaspoon cardamom powder",
+            "A few strands of saffron (optional)",
+            "Rose water for flavoring",
+            "Pistachio nuts for garnish"
+          ],
+          "cooking_method": "1. Heat the milk in a heavy-bottomed pan and bring it to a boil.\n2. Once the milk starts boiling, reduce the heat and add lemon juice. Stir gently until the milk curdles and the whey separates.\n3. Remove the pan from the heat and strain the curdled milk using a cheesecloth or a muslin cloth.\n4. Rinse the cheese under cold water to remove the lemony flavor.\n5. Gather the ends of the cloth and squeeze out the excess water from the cheese.\n6. Knead the cheese on a clean surface until it becomes smooth and soft.\n7. Divide the cheese into small portions and shape them into round balls.\n8. In a separate pan, heat water and sugar together to make a sugar syrup. Add cardamom powder, saffron strands (if using), and a few drops of rose water.\n9. Once the sugar syrup comes to a boil, gently drop the cheese balls into the syrup.\n10. Cover the pan and cook the cheese balls in the sugar syrup for about 10-12 minutes on medium heat.\n11. Remove the pan from the heat and let the Roshogollas cool in the syrup.\n12. Serve the Roshogollas chilled, garnished with pistachio nuts, along with some of the sugar syrup, as a delightful sweet treat.",
+          "rating": 4.7
+        }
+      ]
     },
     {
-      "chef_picture": "https://example.com/chef5.jpg",
-      "chef_name": "Sohel Ahmed",
+      "id": 5,
+      "chef_picture": "https://media.vanityfair.com/photos/54ca90aaf547ce3c06e1d802/master/w_2560%2Cc_limit/image.jpg",
+      "chef_name": "Merida",
       "years_of_experience": 12,
       "number_of_recipes": 90,
-      "likes": 1800
+      "likes": 1800,
+      "description": "Merida is a seasoned chef who specializes in creating mouthwatering dishes inspired by the rich culinary heritage of Bangladesh.",
+      "recipes":[
+        {
+          "recipe_name": "Firni (Rice Pudding)",
+          "ingredients": [
+            "1/4 cup rice",
+            "4 cups milk",
+            "1/2 cup sugar",
+            "1/4 teaspoon cardamom powder",
+            "A pinch of saffron strands",
+            "Chopped almonds and pistachios for garnish"
+          ],
+          "cooking_method": "1. Wash the rice and soak it in water for 30 minutes. Drain the water.\n2. Grind the soaked rice into a coarse paste using a blender or food processor.\n3. In a heavy-bottomed pan, bring the milk to a boil.\n4. Add the ground rice paste to the boiling milk, stirring continuously to avoid lumps.\n5. Reduce the heat to low and cook the mixture, stirring frequently, until the rice is fully cooked and the pudding thickens.\n6. Add sugar, cardamom powder, and saffron strands to the pudding. Mix well.\n7. Continue cooking for another 5-10 minutes until the sugar dissolves completely and the flavors are well incorporated.\n8. Remove the pan from the heat and let the Firni cool to room temperature.\n9. Pour the Firni into individual serving bowls or a large dish.\n10. Garnish with chopped almonds and pistachios.\n11. Refrigerate for a few hours until chilled.\n12. Serve cold and enjoy the creamy and aromatic Rice Pudding.",
+          "rating": 4.6
+        },
+        {
+          "recipe_name": "Chom Chom (Sweet Syrup-Soaked Dessert)",
+          "ingredients": [
+            "1 liter milk",
+            "1 tablespoon lemon juice",
+            "1/2 cup sugar",
+            "4 cups water",
+            "A few strands of saffron",
+            "1/2 teaspoon rose water",
+            "Chopped pistachios for garnish"
+          ],
+          "cooking_method": "1. In a large pot, bring the milk to a boil.\n2. Add lemon juice and stir gently until the milk curdles and the whey separates.\n3. Remove the curdled milk from heat and strain it through a cheesecloth or a muslin cloth.\n4. Rinse the cheese under cold water to remove any lemony flavor.\n5. Squeeze out the excess water from the cheese and hang it for 30 minutes to remove additional moisture.\n6. After 30 minutes, knead the cheese until smooth and divide it into small oval-shaped balls.\n7. In a separate pot, combine sugar, water, saffron strands, and rose water. Bring the mixture to a boil, stirring until the sugar dissolves.\n8. Gently drop the cheese balls into the boiling syrup.\n9. Cook the cheese balls in the syrup on low heat for about 15-20 minutes until they become soft and spongy.\n10. Remove the Chom Chom from the syrup and let them cool.\n11. Garnish with chopped pistachios.\n12. Serve at room temperature or chilled, and enjoy this delightful syrup-soaked dessert.",
+          "rating": 4.7
+        },
+        {
+          "recipe_name": "Chitoi Pitha",
+          "ingredients": [
+            "2 cups rice flour",
+            "1 cup grated coconut",
+            "1 cup jaggery (gur)",
+            "1/2 teaspoon cardamom powder",
+            "A pinch of salt",
+            "Water as needed",
+            "Oil for frying"
+          ],
+          "cooking_method": "1. In a bowl, mix rice flour, grated coconut, jaggery, cardamom powder, and salt.\n2. Gradually add water and knead the mixture into a smooth dough.\n3. Divide the dough into small portions and shape them into small balls.\n4. Flatten each ball into a disc shape.\n5. Heat oil in a frying pan or kadai.\n6. Fry the flattened dough discs until golden brown and crispy on both sides.\n7. Remove from the oil and drain on a paper towel to remove excess oil.\n8. Serve the Chitoi Pitha warm or at room temperature.\n9. Enjoy this delicious and sweet pitha as a snack or dessert during special occasions.",
+          "rating": 4.5
+        }
+      ]
     },
     {
-      "chef_picture": "https://example.com/chef6.jpg",
-      "chef_name": "Farhana Rahman",
+      "id": 6,
+      "chef_picture": "https://preview.redd.it/find-me-a-scene-where-mirabel-isnt-cute-impossible-v0-vhqwexhi9or91.jpg?width=640&crop=smart&auto=webp&s=562cfa30c7e04e4df65b786c01316d8379dd49bf",
+      "chef_name": "Mirabel",
       "years_of_experience": 7,
       "number_of_recipes": 60,
-      "likes": 1200
+      "likes": 1200,
+      "description": "Farhana Rahman is a passionate chef known for her commitment to using organic and sustainable ingredients in her recipes.",
+      "recipes":[
+        {
+          "recipe_name": "Patisapta Pitha",
+          "ingredients": [
+            "1 cup all-purpose flour",
+            "1 cup semolina (suji)",
+            "1 cup milk",
+            "1 cup grated coconut",
+            "1 cup jaggery (gur)",
+            "1/2 teaspoon cardamom powder",
+            "Ghee or oil for cooking"
+          ],
+          "cooking_method": "1. In a bowl, mix all-purpose flour, semolina, and milk to make a smooth batter.\n2. In a separate bowl, mix grated coconut, jaggery, and cardamom powder to make the filling.\n3. Heat a non-stick pan or tawa and grease it with ghee or oil.\n4. Pour a ladleful of the batter on the pan and spread it in a circular motion to form a thin pancake.\n5. Cook the pancake on low to medium heat until the edges start to lift and the surface is cooked.\n6. Spoon some of the coconut-jaggery filling on one side of the pancake.\n7. Carefully fold the pancake over the filling to form a roll.\n8. Remove from the pan and place it on a plate.\n9. Repeat the process with the remaining batter and filling.\n10. Serve the Patisapta Pitha warm or at room temperature.\n11. Enjoy this traditional and flavorful pitha during festivals and special occasions.",
+          "rating": 4.7
+        },
+        {
+          "recipe_name": "Puli Pitha",
+          "ingredients": [
+            "2 cups rice flour",
+            "1 cup grated coconut",
+            "1 cup jaggery (gur)",
+            "1/2 teaspoon cardamom powder",
+            "A pinch of salt",
+            "Water as needed",
+            "Oil for frying"
+          ],
+          "cooking_method": "1. In a bowl, mix rice flour, grated coconut, jaggery, cardamom powder, and salt.\n2. Gradually add water and knead the mixture into a smooth dough.\n3. Divide the dough into small portions and shape them into small balls.\n4. Flatten each ball into a disc shape.\n5. Take a disc-shaped dough and place a spoonful of the jaggery-coconut filling in the center.\n6. Fold the edges of the dough over the filling to enclose it completely.\n7. Pinch and seal the edges to ensure the filling does not come out during cooking.\n8. Heat oil in a frying pan or kadai.\n9. Fry the prepared puli pithas until golden brown and crispy on both sides.\n10. Remove from the oil and drain on a paper towel to remove excess oil.\n11. Serve the puli pithas warm or at room temperature.\n12. Enjoy this delicious and sweet pitha during festive occasions.",
+          "rating": 4.6
+        },
+        {
+          "recipe_name": "Teler Pitha",
+          "ingredients": [
+            "2 cups all-purpose flour",
+            "1 cup rice flour",
+            "1/2 cup grated coconut",
+            "1/2 cup jaggery (gur)",
+            "1/2 teaspoon cardamom powder",
+            "A pinch of salt",
+            "Water as needed",
+            "Oil for frying"
+          ],
+          "cooking_method": "1. In a bowl, mix all-purpose flour, rice flour, grated coconut, jaggery, cardamom powder, and salt.\n2. Gradually add water and knead the mixture into a smooth dough.\n3. Divide the dough into small portions and shape them into small balls.\n4. Flatten each ball into a disc shape.\n5. Heat oil in a frying pan or kadai.\n6. Fry the flattened dough discs until golden brown and crispy on both sides.\n7. Remove from the oil and drain on a paper towel to remove excess oil.\n8. Serve the teler pithas warm or at room temperature.\n9. Enjoy this traditional and delightful pitha with a cup of tea or as a snack during special occasions.",
+          "rating": 4.5
+        }
+      ]
     }
   ]
   
